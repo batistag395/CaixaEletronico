@@ -13,5 +13,4 @@ public class Banco {
     public double getSaldoContaPoupanca() {
         return this.saldoContaPoupanca;
     }
-
 }
